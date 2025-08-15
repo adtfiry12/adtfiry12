@@ -1,4 +1,4 @@
-## Hi i am Aditya Mukti Firmansyah, i am Full Stack Developer👋
+## Hi my name Aditya Mukti Firmansyah, i am Full Stack Developer👋
 
 <!--
 **adtfiry12/adtfiry12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <li>😄 Pronouns: He/him</li>
     <li>⚡ Fun fact: I always code whenever I have time almost every hour</li>
   </ul>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVwM2hydzBraHYzenhpeXpyc3Zjczc3cmNxd3lhaWx2bXk2cmJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="400" style="margin-left: 20px;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVwM2hydzBraHYzenhpeXpyc3Zjczc3cmNxd3lhaWx2bXk2cmJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="300" style="margin-left: 20px;" />
 </div>
 
 
