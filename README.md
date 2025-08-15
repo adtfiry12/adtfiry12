@@ -1,4 +1,4 @@
-## Hi my name Aditya Mukti Firmansyah, i am Full Stack Developer👋
+## Hi i am Aditya Mukti Firmansyah, i am Full Stack Developer👋
 
 <!--
 **adtfiry12/adtfiry12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-|<br> - 🪴 I’m currently working on Web Developer <br> - 🌱 I’m currently learning Full Stack Developer <br> - 🧑‍🤝‍🧑 I’m looking to collaborate on create website and all kind <br> - 🥺 I’m looking for help with front and back end developer <br> - 😄 Pronouns: He/him <br> - ⚡ Fun fact: I always code whenever I have time almost every hour | ![coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVwM2hydzBraHYzenhpeXpyc3Zjczc3cmNxd3lhaWx2bXk2cmJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif) |
-| --- | --- |
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVwM2hydzBraHYzenhpeXpyc3Zjczc3cmNxd3lhaWx2bXk2cmJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" align="right" width="300" />
+
+- 🔭 I’m currently working on Web Developer
+- 🌱 I’m currently learning Full Stack Developer
+- 👯 I’m looking to collaborate on create website and all kind
+- 🤔 I’m looking for help with front and back end developer
+- 💬 Ask me about front-end and back-end development
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I always code whenever I have time almost every hour
 
 
 
