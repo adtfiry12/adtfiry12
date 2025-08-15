@@ -1,5 +1,5 @@
-<!-- ## Hi i am Aditya Mukti Firmansyah, i am Full Stack Developer👋 -->
-<p style="font-size:24px; font-weight:bold; margin:0;">Hi i am Aditya Mukti Firmansyah, i am Full Stack Developer👋</p>
+### Hi i am Aditya Mukti Firmansyah, i am Full Stack Developer👋
+<!-- <p style="font-size:24px; font-weight:bold; margin:0;">Hi i am Aditya Mukti Firmansyah, i am Full Stack Developer👋</p> -->
 
 
 <!--
