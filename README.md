@@ -14,13 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR5bG53dGxwNWxsa2x1emhqMjFqcmNwbzhnOG1rN2NzYTRpejZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)
-- 🔭 I’m currently working on Web Developer
-- 🌱 I’m currently learning Full Stack Developer
-- 👯 I’m looking to collaborate on create website and all kind
-- 🤔 I’m looking for help with frond and back end developer
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I always code whenever I have time almost every hour
+<div style="display: flex; align-items: flex-start;">
+  
+  <ul>
+    <li>🪴 I’m currently working on Web Developer</li>
+    <li>🌱 I’m currently learning Full Stack Developer</li>
+    <li>🧑‍🤝‍🧑 I’m looking to collaborate on create website and all kind</li>
+    <li>🥺 I’m looking for help with front and back end developer</li>
+    <li>😄 Pronouns: He/him</li>
+    <li>⚡ Fun fact: I always code whenever I have time almost every hour</li>
+  </ul>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVwM2hydzBraHYzenhpeXpyc3Zjczc3cmNxd3lhaWx2bXk2cmJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="400" style="margin-left: 20px;" />
+</div>
+
 
 
 
