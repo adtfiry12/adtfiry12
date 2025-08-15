@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I always code whenever I have time almost every hour
 
-
+<br clear="all" />
 
 
 
