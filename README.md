@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVwM2hydzBraHYzenhpeXpyc3Zjczc3cmNxd3lhaWx2bXk2cmJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" align="right" width="300" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVwM2hydzBraHYzenhpeXpyc3Zjczc3cmNxd3lhaWx2bXk2cmJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" align="right" width="500" />
 
 - 🔭 I’m currently working on Web Developer
 - 🌱 I’m currently learning Full Stack Developer
