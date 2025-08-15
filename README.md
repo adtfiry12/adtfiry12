@@ -14,18 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; align-items: flex-start;">
-  
-  <ul>
-    <li>🪴 I’m currently working on Web Developer</li>
-    <li>🌱 I’m currently learning Full Stack Developer</li>
-    <li>🧑‍🤝‍🧑 I’m looking to collaborate on create website and all kind</li>
-    <li>🥺 I’m looking for help with front and back end developer</li>
-    <li>😄 Pronouns: He/him</li>
-    <li>⚡ Fun fact: I always code whenever I have time almost every hour</li>
-  </ul>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVwM2hydzBraHYzenhpeXpyc3Zjczc3cmNxd3lhaWx2bXk2cmJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="300" style="margin-left: 20px;" />
-</div>
+|<br> - 🪴 I’m currently working on Web Developer <br> - 🌱 I’m currently learning Full Stack Developer <br> - 🧑‍🤝‍🧑 I’m looking to collaborate on create website and all kind <br> - 🥺 I’m looking for help with front and back end developer <br> - 😄 Pronouns: He/him <br> - ⚡ Fun fact: I always code whenever I have time almost every hour | ![coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVwM2hydzBraHYzenhpeXpyc3Zjczc3cmNxd3lhaWx2bXk2cmJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif) |
+| --- | --- |
+
 
 
 
