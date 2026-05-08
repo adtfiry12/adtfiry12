@@ -37,11 +37,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adtfiry12&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Aditya's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adtfiry12&theme=dark" alt="Aditya's Profile Details" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adtfiry12&theme=dark&hide_border=false" alt="Aditya's GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adtfiry12&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adtfiry12&theme=dark" alt="Top Languages" />
 </p>
 
 ---
