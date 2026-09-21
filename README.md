@@ -36,21 +36,20 @@
 
 ---
 
+<!-- Profile Details Card -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adtfiry12&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Aditya's Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adtfiry12&theme=tokyonight" alt="Aditya's Profile Details" />
 </p>
 
+<!-- Language Stats & Streak side-by-side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adtfiry12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aditya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adtfiry12&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adtfiry12&theme=tokyonight&hide_border=true&background=0D1117" alt="Aditya's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adtfiry12&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adtfiry12&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Streak" />
 </p>
 
 ---
 
+<!-- Profile Views Widget -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adtfiry12&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 </p>
